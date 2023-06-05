@@ -2,7 +2,7 @@
 
 * Foi criado um formulários com diferentes tipos de input, entre eles, text,password, data, e-mail, phone, radio, select, checkbox, textarea, ran-ge, button submit e button reset.
 
-# MATERIAL E FERRAMENTAS usadas
+# MATERIAL E FERRAMENTAS USADAS
 * Editor de código Notepad++, ou equivalente, instalado no computador.
 
 # Esta página web tem no seu conteúdo um formulário em que:
