@@ -1,8 +1,8 @@
 # OBJETIVO
 
-* Criar formulários com diferentes tipos de input, entre eles, text,password, data, e-mail, phone, radio, select, checkbox, textarea, ran-ge, button submit e button reset.
+* Foi criado um formulários com diferentes tipos de input, entre eles, text,password, data, e-mail, phone, radio, select, checkbox, textarea, ran-ge, button submit e button reset.
 
-# MATERIAL E FERRAMENTAS NECESSÁRIAS PARA A PRÁTICA
+# MATERIAL E FERRAMENTAS usadas
 * Editor de código Notepad++, ou equivalente, instalado no computador.
 
 # Esta página web tem no seu conteúdo um formulário em que:
